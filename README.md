@@ -12,6 +12,9 @@
 - 可选登录以保护访问。
 - 上传，移动，复制和删除文件即将推出！
 
+密码加密
+https://tinyfilemanager.github.io/docs/pwd.html?from=https://www.qian.blue    
+
 # 安装教程
 
 &emsp;&emsp;🔗传送门：[https://www.qian.blue/archives/files_photo_gallery.html](https://www.qian.blue/archives/files_photo_gallery.html)
